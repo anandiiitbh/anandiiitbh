@@ -1,3 +1,6 @@
+<label for="name">Name:</label>  
+<input type="text" id="name" name="name" size="20"/>
+
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -17,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandiiitbh&show_icons=true&locale=en" alt="anandiiitbh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandiiitbh&" alt="anandiiitbh" /></p>
+
+
