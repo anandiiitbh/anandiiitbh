@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandiiitbh&label=Profile%20views&color=0e75b6&style=flat" alt="anandiiitbh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anandiiitbh&label=Profile%20views&color=0e75b6&style=flat" alt="anandiiitbh" /> </p>
 
 <br />
   <br />
