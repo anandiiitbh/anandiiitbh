@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/anandiiitbh">
+    <img src="rando.gif" alt="Logo" style="width: 100%;height: 100%" />
+  </a>
+</p>
+
 <div align="center">
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">A passionate developer</h3>
