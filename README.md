@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/anandiiitbh">
     <img src="rando.gif" alt="Logo" style="width: 100%;height: 100%" />
-  </a>
 </p>
 
 <div align="center">
